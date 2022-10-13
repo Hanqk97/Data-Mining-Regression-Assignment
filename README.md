@@ -1,4 +1,5 @@
 # Data-Mining-Regression-Assignment
+https://github.com/Hanqk97/Data-Mining-Regression-Assignment
 # Environment Requirement
 To running the ipynb fils, you need have python 3.9 version. Due to the update of python 3.10, running the code on python 3.10 will cause several errors. 
 Following packages are needed: numpy, pandas, sklearn, matplotlib, random
